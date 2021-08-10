@@ -1,0 +1,8 @@
+.item {
+    margin-top: 10px;
+    background-color: #D3D3D3;
+}
+.item__date__score {
+    display: flex;
+    justify-content: space-around;
+}
